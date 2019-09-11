@@ -1,4 +1,4 @@
-## Used Technologies
+## Technologies Used
 
 I have used;
 
